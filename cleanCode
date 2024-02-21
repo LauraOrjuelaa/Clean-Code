@@ -1,0 +1,20 @@
+1. Que es optimizacion de codigo?
+
+ Es la manera de mejorar el rendimiento, eficiencia y legibilidad sin cambiar su funcionalidad, 
+ con el objetivo de lograr un código más rápido, más eficiente y más fácil de mantener.
+
+2. Que es refactorizacion de codigo?
+
+ La refactorización se realiza para hacer que el código sea más comprensible, mantenible y extensible.
+
+3. Que es Continuous Integration/Continuous Deployment (CI/CD) o integracion continua?
+
+ CI/CD es una metodología que enfatiza la automatización de procesos clave en el ciclo de vida del 
+ desarrollo de software, incluida la integración, las pruebas y el despliegue, con el objetivo de mejorar 
+ la calidad del software, acelerar el tiempo de entrega y aumentar la eficiencia del equipo de desarrollo.
+
+4. Que es DRY (Don't Repeat Yourself)?
+
+ El principio DRY enfatiza la importancia de escribir código limpio y eficiente, evitando la duplicación
+ y promoviendo la reutilización del código, lo que conduce a un desarrollo de software más eficiente, 
+ mantenible y escalable.
